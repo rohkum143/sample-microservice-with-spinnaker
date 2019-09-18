@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: 107995894928.dkr.ecr.us-west-2.amazonaws.com/sample-microservice
+  repository: rohtashkumar/sample-microservice
   tag: latest
   pullPolicy: Always
 
